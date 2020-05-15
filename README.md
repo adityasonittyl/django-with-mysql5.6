@@ -1,0 +1,1 @@
+# django-with-mysql5.6
